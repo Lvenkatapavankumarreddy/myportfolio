@@ -1,0 +1,22 @@
+{
+  "name": "pavan-reddy-portfolio",
+  "version": "1.0.0",
+  "description": "Student Portfolio for Venkata Pavan Kumar Reddy Lokasani (B.Tech AI&DS at KL University) inspired by Nova Astro design reference",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve .",
+    "serve": "npx serve . -p 3000",
+    "preview": "npx serve ."
+  },
+  "keywords": [
+    "portfolio",
+    "nova-astro",
+    "student-portfolio",
+    "pavan-reddy",
+    "ai-ds",
+    "deep-learning",
+    "software-engineering"
+  ],
+  "author": "Venkata Pavan Kumar Reddy Lokasani",
+  "license": "MIT"
+}
